@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  parent: MyString
+  created: MyString
+  container: MyString
+  container_config: MyText
+
+two:
+  name: MyString
+  parent: MyString
+  created: MyString
+  container: MyString
+  container_config: MyText
